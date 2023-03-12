@@ -1,0 +1,21 @@
+{
+  "name": "snapgram",
+  "version": "1.0.0",
+  "description": "Social Media App with combined features of instagram and snapchat",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "social",
+    "media",
+    "web",
+    "app"
+  ],
+  "author": "keval radadiya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
